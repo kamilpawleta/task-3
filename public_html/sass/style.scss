@@ -1,0 +1,11 @@
+@mixin generation($N, $ColorStart,$ColorEnd){ // Mixin towrzący N styli przechodzących z koloru początkowego do końcowego 
+    @for $i from 0 to $N {
+    .woj-#{$i + 1}:hover {
+        fill: mix($ColorEnd, $ColorStart, percentage($i / ($N - 1)));
+        cursor: pointer;
+        stroke: mix($ColorStart, $ColorEnd, percentage($i / ($N - 1)));
+    }
+}
+}
+@include generation (16,green,red)
+

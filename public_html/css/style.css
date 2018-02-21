@@ -1,0 +1,39 @@
+.woj-1:hover { fill: green; cursor: pointer; stroke: red; }
+
+.woj-2:hover { fill: #117700; cursor: pointer; stroke: #ee0900; }
+
+.woj-3:hover { fill: #226f00; cursor: pointer; stroke: #dd1100; }
+
+.woj-4:hover { fill: #336600; cursor: pointer; stroke: #cc1a00; }
+
+.woj-5:hover { fill: #445e00; cursor: pointer; stroke: #bb2200; }
+
+.woj-6:hover { fill: #555500; cursor: pointer; stroke: #aa2b00; }
+
+.woj-7:hover { fill: #664d00; cursor: pointer; stroke: #993300; }
+
+.woj-8:hover { fill: #774400; cursor: pointer; stroke: #883c00; }
+
+.woj-9:hover { fill: #883c00; cursor: pointer; stroke: #774400; }
+
+.woj-10:hover { fill: #993300; cursor: pointer; stroke: #664d00; }
+
+.woj-11:hover { fill: #aa2b00; cursor: pointer; stroke: #555500; }
+
+.woj-12:hover { fill: #bb2200; cursor: pointer; stroke: #445e00; }
+
+.woj-13:hover { fill: #cc1a00; cursor: pointer; stroke: #336600; }
+
+.woj-14:hover { fill: #dd1100; cursor: pointer; stroke: #226f00; }
+
+.woj-15:hover { fill: #ee0900; cursor: pointer; stroke: #117700; }
+
+.woj-16:hover { fill: red; cursor: pointer; stroke: green; }
+
+.wojewodztwo {
+        fill: #878787;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+/*# sourceMappingURL=style.css.map */
